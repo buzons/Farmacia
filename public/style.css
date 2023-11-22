@@ -1,0 +1,7 @@
+#head{
+    position: fixed;
+    position: sticky;
+    font-weight: bold;
+    top :0;
+    display: flex;
+}
