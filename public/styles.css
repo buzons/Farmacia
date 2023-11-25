@@ -1,5 +1,7 @@
-p{
-    text-align: left;
-    margin: 1px;
-    border: 1px;
+#head{
+    position: fixed;
+    position: sticky;
+    font-weight: bold;
+    top :0;
+    display: flex;
 }
